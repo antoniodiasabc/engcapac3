@@ -1,0 +1,100 @@
+2020-10-05T22:50:42.059919+00:00 app[web.1]: 10.45.208.208 - - [05/Oct/2020 22:50:42] "GET / HTTP/1.1" 200 -
+2020-10-05T22:50:42.062024+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=2c073fe1-be6f-4ad2-88ad-419cc2ece4ad fwd="201.0.238.203" dyno=web.1 connect=1ms service=2ms status=200 bytes=187 protocol=https
+2020-10-05T22:50:42.120193+00:00 app[web.1]: 10.45.161.126 - - [05/Oct/2020 22:50:42] "GET /favicon.ico HTTP/1.1" 404 -
+2020-10-05T22:50:42.126478+00:00 heroku[router]: at=info method=GET path="/favicon.ico" host=ecac3.herokuapp.com request_id=4887d47a-19f6-4fbf-b0f7-1025ae91693d fwd="177.33.80.146" dyno=web.1 connect=1ms service=3ms status=404 bytes=379 protocol=https
+2020-10-05T22:50:42.164031+00:00 app[web.1]: 10.47.250.44 - - [05/Oct/2020 22:50:42] "GET /favicon.ico HTTP/1.1" 404 -
+2020-10-05T22:50:42.165915+00:00 heroku[router]: at=info method=GET path="/favicon.ico" host=ecac3.herokuapp.com request_id=d567c43d-01e1-425a-ac65-331a7adf77ec fwd="189.127.240.240" dyno=web.1 connect=1ms service=3ms status=404 bytes=379 protocol=https
+2020-10-05T22:50:42.508985+00:00 heroku[router]: at=info method=GET path="/favicon.ico" host=ecac3.herokuapp.com request_id=08a8283b-fcba-46f7-b3b2-225566746e18 fwd="189.100.62.4" dyno=web.1 connect=0ms service=2ms status=404 bytes=379 protocol=https
+2020-10-05T22:50:42.510840+00:00 app[web.1]: 10.5.225.117 - - [05/Oct/2020 22:50:42] "GET /favicon.ico HTTP/1.1" 404 -
+2020-10-05T22:50:43.272283+00:00 app[web.1]: 10.33.250.117 - - [05/Oct/2020 22:50:43] "GET / HTTP/1.1" 200 -
+2020-10-05T22:50:43.274542+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=0cb955f6-156b-4ecc-98e3-110e8a879bc1 fwd="201.68.170.178" dyno=web.1 connect=1ms service=3ms status=200 bytes=187 protocol=https
+2020-10-05T22:50:48.092032+00:00 app[web.1]: 10.45.241.211 - - [05/Oct/2020 22:50:48] "GET / HTTP/1.1" 200 -
+2020-10-05T22:50:48.095332+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=0bcf031a-5682-4092-baac-7d01d2da1d93 fwd="179.111.127.130" dyno=web.1 connect=1ms service=2ms status=200 bytes=187 protocol=https
+2020-10-05T22:50:48.516263+00:00 app[web.1]: 10.45.241.211 - - [05/Oct/2020 22:50:48] "GET /favicon.ico HTTP/1.1" 404 -
+2020-10-05T22:50:48.519378+00:00 heroku[router]: at=info method=GET path="/favicon.ico" host=ecac3.herokuapp.com request_id=f8c1e41d-ce01-4bc6-91f3-24c5189df07e fwd="179.111.127.130" dyno=web.1 connect=1ms service=2ms status=404 bytes=379 protocol=https
+2020-10-05T22:50:48.618322+00:00 app[web.1]: 10.69.234.207 - - [05/Oct/2020 22:50:48] "GET / HTTP/1.1" 200 -
+2020-10-05T22:50:48.619475+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=770dc7be-c651-4c3d-96cc-77fe8555523d fwd="179.99.30.95" dyno=web.1 connect=0ms service=2ms status=200 bytes=187 protocol=https
+2020-10-05T22:50:48.687706+00:00 app[web.1]: 10.7.195.59 - - [05/Oct/2020 22:50:48] "GET / HTTP/1.1" 200 -
+2020-10-05T22:50:48.690251+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=5b1cc5db-83b2-4dd3-99e1-658eb630940d fwd="191.163.115.158" dyno=web.1 connect=1ms service=3ms status=200 bytes=187 protocol=https
+2020-10-05T22:50:49.676871+00:00 app[web.1]: 10.33.250.117 - - [05/Oct/2020 22:50:49] "GET / HTTP/1.1" 200 -
+2020-10-05T22:50:49.678811+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=01f4569e-aa9b-470d-addd-d480134c08f8 fwd="201.68.170.178" dyno=web.1 connect=1ms service=2ms status=200 bytes=187 protocol=https
+2020-10-05T22:50:49.813325+00:00 app[web.1]: 10.13.130.62 - - [05/Oct/2020 22:50:49] "GET / HTTP/1.1" 200 -
+2020-10-05T22:50:49.815593+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=81d67e4c-660d-45b2-ac1a-5c87a22bccee fwd="189.62.46.25" dyno=web.1 connect=1ms service=3ms status=200 bytes=187 protocol=https
+2020-10-05T22:50:50.121915+00:00 app[web.1]: 10.69.234.207 - - [05/Oct/2020 22:50:50] "GET /favicon.ico HTTP/1.1" 404 -
+2020-10-05T22:50:50.123283+00:00 heroku[router]: at=info method=GET path="/favicon.ico" host=ecac3.herokuapp.com request_id=3a872eb9-ec3e-4647-aef1-8f2e57407add fwd="179.99.30.95" dyno=web.1 connect=1ms service=2ms status=404 bytes=379 protocol=https
+2020-10-05T22:51:05.036278+00:00 app[web.1]: 10.102.191.252 - - [05/Oct/2020 22:51:05] "GET / HTTP/1.1" 200 -
+2020-10-05T22:51:05.040237+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=4c6b0538-53cd-433e-b7e5-cad2000d28aa fwd="189.33.66.89" dyno=web.1 connect=1ms service=3ms status=200 bytes=187 protocol=https
+2020-10-05T22:51:07.647514+00:00 app[web.1]: 10.102.191.252 - - [05/Oct/2020 22:51:07] "GET / HTTP/1.1" 200 -
+2020-10-05T22:51:07.651331+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=a3ea4431-7b6b-47e0-86a8-98ce937e46ec fwd="189.33.66.89" dyno=web.1 connect=1ms service=3ms status=200 bytes=187 protocol=https
+2020-10-05T23:03:12.000000+00:00 app[api]: Build started by user antoniodiasabc@gmail.com
+2020-10-05T23:03:35.218638+00:00 app[api]: Deploy c8b265ce by user antoniodiasabc@gmail.com
+2020-10-05T23:03:35.218638+00:00 app[api]: Release v4 created by user antoniodiasabc@gmail.com
+2020-10-05T23:03:35.369396+00:00 heroku[web.1]: Restarting
+2020-10-05T23:03:35.396531+00:00 heroku[web.1]: State changed from up to starting
+2020-10-05T23:03:36.564392+00:00 heroku[web.1]: Stopping all processes with SIGTERM
+2020-10-05T23:03:36.711650+00:00 heroku[web.1]: Process exited with status 143
+2020-10-05T23:03:38.265927+00:00 heroku[web.1]: Starting process with command `python primos.py`
+2020-10-05T23:03:41.316386+00:00 app[web.1]: * Serving Flask app "primos" (lazy loading)
+2020-10-05T23:03:41.316412+00:00 app[web.1]: * Environment: production
+2020-10-05T23:03:41.316455+00:00 app[web.1]: WARNING: Do not use the development server in a production environment.
+2020-10-05T23:03:41.316529+00:00 app[web.1]: Use a production WSGI server instead.
+2020-10-05T23:03:41.316591+00:00 app[web.1]: * Debug mode: off
+2020-10-05T23:03:41.339706+00:00 app[web.1]: * Running on http://0.0.0.0:37316/ (Press CTRL+C to quit)
+2020-10-05T23:03:42.022981+00:00 heroku[web.1]: State changed from starting to up
+2020-10-05T23:03:44.000000+00:00 app[api]: Build succeeded
+2020-10-05T23:03:58.859483+00:00 app[web.1]: 10.7.242.21 - - [05/Oct/2020 23:03:58] "GET / HTTP/1.1" 200 -
+2020-10-05T23:03:58.865114+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=daf1d68c-31b2-4cea-b12e-e0af9b797375 fwd="201.46.19.113" dyno=web.1 connect=0ms service=4ms status=200 bytes=566 protocol=https
+2020-10-05T23:04:07.306471+00:00 app[web.1]: 10.9.251.250 - - [05/Oct/2020 23:04:07] "GET / HTTP/1.1" 200 -
+2020-10-05T23:04:07.308602+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=c6a3558c-b986-441d-972c-7a93ed361e6b fwd="179.55.145.173" dyno=web.1 connect=0ms service=4ms status=200 bytes=566 protocol=http
+2020-10-05T23:04:16.667055+00:00 app[web.1]: 10.71.199.143 - - [05/Oct/2020 23:04:16] "GET / HTTP/1.1" 200 -
+2020-10-05T23:04:16.671090+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=47f4f90a-0b67-4ecb-9b4c-39a1b9a2a12c fwd="177.86.125.57" dyno=web.1 connect=0ms service=7ms status=200 bytes=566 protocol=https
+2020-10-05T23:04:16.847360+00:00 app[web.1]: 10.63.54.150 - - [05/Oct/2020 23:04:16] "GET / HTTP/1.1" 200 -
+2020-10-05T23:04:16.848266+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=17b05a2a-890d-49f0-b8f2-5948c893462a fwd="189.33.66.89" dyno=web.1 connect=0ms service=4ms status=200 bytes=566 protocol=https
+2020-10-05T23:04:17.963563+00:00 app[web.1]: 10.51.235.186 - - [05/Oct/2020 23:04:17] "GET / HTTP/1.1" 200 -
+2020-10-05T23:04:17.964933+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=bbc26941-02ce-4317-ae0d-53a9439b3572 fwd="191.182.148.198" dyno=web.1 connect=1ms service=4ms status=200 bytes=566 protocol=https
+2020-10-05T23:04:18.344438+00:00 app[web.1]: 10.5.206.253 - - [05/Oct/2020 23:04:18] "GET / HTTP/1.1" 200 -
+2020-10-05T23:04:18.346184+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=8eca6395-4e9a-4f4e-8316-c2be4ebc11b7 fwd="191.251.180.232" dyno=web.1 connect=1ms service=4ms status=200 bytes=566 protocol=https
+2020-10-05T23:04:18.578543+00:00 app[web.1]: 10.5.206.253 - - [05/Oct/2020 23:04:18] "GET /favicon.ico HTTP/1.1" 404 -
+2020-10-05T23:04:18.579838+00:00 heroku[router]: at=info method=GET path="/favicon.ico" host=ecac3.herokuapp.com request_id=566b4e16-de77-455c-92b5-bb52f2e195fc fwd="191.251.180.232" dyno=web.1 connect=2ms service=17ms status=404 bytes=379 protocol=https
+2020-10-05T23:04:18.955733+00:00 app[web.1]: 10.45.9.232 - - [05/Oct/2020 23:04:18] "GET / HTTP/1.1" 200 -
+2020-10-05T23:04:18.958850+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=2233e0ed-bc9f-4301-bafc-9fb9d77103e5 fwd="191.183.197.160" dyno=web.1 connect=1ms service=6ms status=200 bytes=566 protocol=https
+2020-10-05T23:04:19.098838+00:00 app[web.1]: 10.16.251.130 - - [05/Oct/2020 23:04:19] "GET / HTTP/1.1" 200 -
+2020-10-05T23:04:19.100408+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=ba27f4d6-ca2f-493e-a675-cc9ee688c152 fwd="45.190.102.225" dyno=web.1 connect=1ms service=4ms status=200 bytes=566 protocol=https
+2020-10-05T23:04:19.331912+00:00 app[web.1]: 10.16.251.130 - - [05/Oct/2020 23:04:19] "GET /favicon.ico HTTP/1.1" 404 -
+2020-10-05T23:04:19.339570+00:00 heroku[router]: at=info method=GET path="/favicon.ico" host=ecac3.herokuapp.com request_id=7224fe8c-1371-4d74-9b6a-0a241a01ceaf fwd="45.190.102.225" dyno=web.1 connect=1ms service=3ms status=404 bytes=379 protocol=https
+2020-10-05T23:04:20.389289+00:00 app[web.1]: 10.71.137.172 - - [05/Oct/2020 23:04:20] "GET / HTTP/1.1" 200 -
+2020-10-05T23:04:20.390375+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=d23ccb4a-0286-4125-9d02-f6c33dbf807c fwd="186.220.199.74" dyno=web.1 connect=0ms service=5ms status=200 bytes=566 protocol=https
+2020-10-05T23:04:20.611705+00:00 app[web.1]: 10.45.47.90 - - [05/Oct/2020 23:04:20] "GET / HTTP/1.1" 200 -
+2020-10-05T23:04:20.612609+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=0826bda6-3d9a-408b-92bb-27874e3d09df fwd="201.93.97.70" dyno=web.1 connect=0ms service=4ms status=200 bytes=566 protocol=https
+2020-10-05T23:04:20.867910+00:00 app[web.1]: 10.13.130.62 - - [05/Oct/2020 23:04:20] "GET / HTTP/1.1" 200 -
+2020-10-05T23:04:20.875595+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=e8a051ee-7ec4-445b-b089-e51bfccbac5b fwd="189.33.66.89" dyno=web.1 connect=1ms service=11ms status=200 bytes=566 protocol=https
+2020-10-05T23:04:21.735920+00:00 app[web.1]: 10.155.219.74 - - [05/Oct/2020 23:04:21] "GET / HTTP/1.1" 200 -
+2020-10-05T23:04:21.737278+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=ab05fd4b-b7ee-43e5-b394-082d90208d93 fwd="191.163.115.158" dyno=web.1 connect=0ms service=4ms status=200 bytes=566 protocol=https
+2020-10-05T23:04:21.955365+00:00 app[web.1]: 10.63.249.212 - - [05/Oct/2020 23:04:21] "GET / HTTP/1.1" 200 -
+2020-10-05T23:04:21.957945+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=12a667f7-218c-431e-968b-0e057c625e4a fwd="189.100.62.4" dyno=web.1 connect=1ms service=5ms status=200 bytes=566 protocol=https
+2020-10-05T23:04:24.087564+00:00 app[web.1]: 10.35.227.185 - - [05/Oct/2020 23:04:24] "GET / HTTP/1.1" 200 -
+2020-10-05T23:04:24.089333+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=e0a0b6e8-0f22-469e-986b-ffec1492420d fwd="191.162.76.34" dyno=web.1 connect=1ms service=5ms status=200 bytes=566 protocol=https
+2020-10-05T23:04:24.286867+00:00 app[web.1]: 10.35.227.185 - - [05/Oct/2020 23:04:24] "GET /favicon.ico HTTP/1.1" 404 -
+2020-10-05T23:04:24.291047+00:00 heroku[router]: at=info method=GET path="/favicon.ico" host=ecac3.herokuapp.com request_id=70df6cd0-47d9-4240-9b20-a65a4ee10e8c fwd="191.162.76.34" dyno=web.1 connect=1ms service=6ms status=404 bytes=379 protocol=https
+2020-10-05T23:04:24.336484+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=abe37ff5-ce28-4700-9b08-ca1ec1d44f6f fwd="177.91.84.27" dyno=web.1 connect=1ms service=13ms status=200 bytes=566 protocol=https
+2020-10-05T23:04:24.336796+00:00 app[web.1]: 10.109.218.102 - - [05/Oct/2020 23:04:24] "GET / HTTP/1.1" 200 -
+2020-10-05T23:04:24.450099+00:00 app[web.1]: 10.7.164.30 - - [05/Oct/2020 23:04:24] "GET / HTTP/1.1" 200 -
+2020-10-05T23:04:24.457407+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=b6716c18-1786-4ad1-99e8-de03d9926483 fwd="187.22.134.141" dyno=web.1 connect=0ms service=11ms status=200 bytes=566 protocol=https
+2020-10-05T23:04:24.686595+00:00 app[web.1]: 10.7.164.30 - - [05/Oct/2020 23:04:24] "GET /favicon.ico HTTP/1.1" 404 -
+2020-10-05T23:04:24.687639+00:00 heroku[router]: at=info method=GET path="/favicon.ico" host=ecac3.herokuapp.com request_id=e8092288-94ac-48fa-8bb3-5adfb2d260e4 fwd="187.22.134.141" dyno=web.1 connect=0ms service=2ms status=404 bytes=379 protocol=https
+2020-10-05T23:04:35.301841+00:00 app[web.1]: 10.71.137.172 - - [05/Oct/2020 23:04:35] "GET / HTTP/1.1" 200 -
+2020-10-05T23:04:35.302935+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=0c6d9fb6-b585-49fb-9c0c-18df1aded953 fwd="186.220.199.74" dyno=web.1 connect=0ms service=6ms status=200 bytes=566 protocol=https
+2020-10-05T23:04:36.638664+00:00 app[web.1]: 10.9.251.250 - - [05/Oct/2020 23:04:36] "GET / HTTP/1.1" 200 -
+2020-10-05T23:04:36.645137+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=92fdbb9d-1391-4bd1-8560-c46f31c00615 fwd="179.55.145.173" dyno=web.1 connect=0ms service=4ms status=200 bytes=566 protocol=http
+2020-10-05T23:04:37.187120+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=8ce8ac3a-3d35-4928-9b75-d34100f227ab fwd="177.143.13.49" dyno=web.1 connect=1ms service=5ms status=200 bytes=566 protocol=https
+2020-10-05T23:04:37.187645+00:00 app[web.1]: 10.30.25.182 - - [05/Oct/2020 23:04:37] "GET / HTTP/1.1" 200 -
+2020-10-05T23:04:37.580928+00:00 heroku[router]: at=info method=GET path="/favicon.ico" host=ecac3.herokuapp.com request_id=77cdfddb-c536-4061-8e7e-b29f8098302d fwd="177.143.13.49" dyno=web.1 connect=1ms service=3ms status=404 bytes=379 protocol=https
+2020-10-05T23:04:37.581899+00:00 app[web.1]: 10.30.25.182 - - [05/Oct/2020 23:04:37] "GET /favicon.ico HTTP/1.1" 404 -
+2020-10-05T23:04:43.067537+00:00 app[web.1]: 10.61.189.68 - - [05/Oct/2020 23:04:43] "GET / HTTP/1.1" 200 -
+2020-10-05T23:04:43.068140+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=7e74dfce-99c1-4cf7-8c87-7bf1ad191716 fwd="201.68.170.178" dyno=web.1 connect=0ms service=4ms status=200 bytes=566 protocol=https
+2020-10-05T23:04:51.477277+00:00 app[web.1]: 10.81.229.85 - - [05/Oct/2020 23:04:51] "GET / HTTP/1.1" 200 -
+2020-10-05T23:04:51.478116+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=b2382a88-9394-4dc1-a9dd-3da4e51446f0 fwd="177.86.125.57" dyno=web.1 connect=1ms service=4ms status=200 bytes=566 protocol=https
+2020-10-05T23:05:19.670142+00:00 app[web.1]: 10.11.225.205 - - [05/Oct/2020 23:05:19] "GET / HTTP/1.1" 200 -
+2020-10-05T23:05:19.673109+00:00 heroku[router]: at=info method=GET path="/" host=ecac3.herokuapp.com request_id=4abce297-f2b7-494a-bc85-521e12709acb fwd="177.32.86.74" dyno=web.1 connect=1ms service=6ms status=200 bytes=566 protocol=https
+2020-10-05T23:05:20.227612+00:00 app[web.1]: 10.11.225.205 - - [05/Oct/2020 23:05:20] "GET /favicon.ico HTTP/1.1" 404 -
+2020-10-05T23:05:20.230328+00:00 heroku[router]: at=info method=GET path="/favicon.ico" host=ecac3.herokuapp.com request_id=ba354caa-d505-4892-99ab-a019e82568de fwd="177.32.86.74" dyno=web.1 connect=1ms service=4ms status=404 bytes=379 protocol=https
